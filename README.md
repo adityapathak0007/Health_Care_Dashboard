@@ -21,5 +21,11 @@ Use this dashboard to analyze health care trends, performance metrics, and other
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, please create a pull request or open an issue.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Contact
+
+For any questions, suggestions, or feedback, please feel free to reach out:
+
+- **Aditya Pathak**
+- **Email:** [adityapathak034@gmail.com](mailto:adityapathak034@gmail.com)
+- **GitHub:** [adityapathak0007](https://github.com/adityapathak0007)
+- **LinkedIn:** [adityapathak07](https://www.linkedin.com/in/adityapathak07)
